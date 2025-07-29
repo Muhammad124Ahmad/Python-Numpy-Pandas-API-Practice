@@ -1,0 +1,13 @@
+Membership No  Date Joined  Active  
+Membership No  Date Joined  Active  
+    33271      2016-6-11    yes   
+    82458      2017-7-16    yes   
+    46601      2017-5-18    yes   
+    72723      2017-1-5     yes   
+    30213      2017-12-10   yes   
+    81608      2020-7-13    yes   
+    37890      2018-5-9     yes   
+    81608      2020-7-13    yes   
+    37890      2018-5-9     yes   
+    81608      2020-7-13    yes   
+    37890      2018-5-9     yes   
